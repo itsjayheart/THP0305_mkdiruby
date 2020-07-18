@@ -6,7 +6,7 @@ it is setting up all at once everything needed to start working on a ruby projec
 
 make sure to create an alias in your .bash_profile or .bashrc file so you can use it anywhere
 
-alias mkdiruby="/path/mkdiruby.rb"
+alias mkdiruby="ruby /path/mkdiruby.rb"
 
 r e g a r d s
 
